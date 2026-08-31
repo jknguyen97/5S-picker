@@ -1,3 +1,10 @@
+## Purpose
+
+
+Team selector for weekly lab 5s (Sort, Set, Shine, Standardize, Sustain).
+
+
+
 ## Local Installation and Setup
 
 
