@@ -1,4 +1,4 @@
-\## Local Installation and Setup
+## Local Installation and Setup
 
 
 
@@ -6,7 +6,7 @@ Running the app:
 
 
 
-\### 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 
@@ -18,7 +18,7 @@ cd 5S-picker
 
 
 
-\### 2. Install Dependencies
+### 2. Install Dependencies
 
 Make sure you have Python installed, then install the required libraries (streamlit \& network):
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 
 
-\### 3. Run the App
+### 3. Run the App
 
 Launch local Streamlit server:
 
